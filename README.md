@@ -4,7 +4,7 @@ Demo project demonstrating how to build simple REST API with Spring Boot.
 
 Frontend part is taken from https://github.com/tastejs/todomvc/tree/gh-pages/examples/angularjs
 
-- based on Spring Boot 1.2.RC2
+- based on Spring Boot 1.2.3.RELEASE
 - AngularJS
 - todo items are stored in in-memory repository based on simple `HashMap`, can be easily extended to save items to database
 
